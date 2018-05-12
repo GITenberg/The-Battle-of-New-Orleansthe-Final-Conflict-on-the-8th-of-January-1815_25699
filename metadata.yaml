@@ -1,0 +1,35 @@
+_repo: The-Battle-of-New-Orleansthe-Final-Conflict-on-the-8th-of-January-1815_25699
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Z. F. (Zachariah Frederick)
+    aliases:
+    - Smith, Zachariah Frederick
+    - Smith, Zachary F. (Zachary Frederick)
+    birthdate: 1827
+    deathdate: 1911
+    gutenberg_agent_id: '31517'
+    url: http://www.gutenberg.org/2009/agents/31517
+description: ''
+gutenberg_issued: '2008-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25699'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Orleans, Battle of, New Orleans, La., 1815'
+- !lcc 'E300'
+title: 'The Battle of New Orleans
+
+  including the Previous Engagements between the Americans
+
+  and the British, the Indians and the Spanish which led to
+
+  the Final Conflict on the 8th of January, 1815'
+url: http://www.gutenberg.org/ebooks/25699
